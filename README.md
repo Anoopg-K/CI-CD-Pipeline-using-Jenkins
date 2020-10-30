@@ -1,4 +1,4 @@
-#CI CD Pipeline using Jenkins to deploy a Docker container
+# CI CD Pipeline using Jenkins to deploy a Docker container
 
 In this project a ci cd pipeline structure is set up using Jenkins to build a docker container. We have 4 servers:
 
